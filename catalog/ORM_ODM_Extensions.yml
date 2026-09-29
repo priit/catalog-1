@@ -1,6 +1,8 @@
 ---
 name: ORM/ODM Extensions
 shards:
+- github: crimson-knight/grant
+  description: Active Record pattern ORM aiming for feature parity with Rails Active Record
 - github: spider-gazelle/active-model
   description: Rails-esque model framework
 - github: waterlink/active_record.cr
